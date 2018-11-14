@@ -14,4 +14,4 @@
 A empresa, por meio de seu núcleo de TI, não realiza o registro de uso dos sistemas e serviços.
 
 ### ❌ Não Permitido
-Não Permitido: A empresa, por meio de seu núcleo de TI, poderá registrar todo o uso dos sistemas e serviços, visando garantir a disponibilidade e a segurança das informações utilizadas.
+A empresa, por meio de seu núcleo de TI, poderá registrar todo o uso dos sistemas e serviços, visando garantir a disponibilidade e a segurança das informações utilizadas.
