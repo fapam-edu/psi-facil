@@ -1,4 +1,7 @@
 # psi-facil
+
+![](psi-facil.logo.svg)
+
 Guia simples de políticas de segurança da informação para micro e pequenas empresas.
 
 ## Introdução
