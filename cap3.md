@@ -24,3 +24,7 @@ Os acessos a todos módulos do sistema por todos os perfis de logins.
 
 ### ❌ Não Permitido
 O acesso aos módulos do sistema devem estar limitados às tarefas e atribuições de cada perfil. 
+
+
+#### Próximo
+[IV. Quanto a Proteção das Informações](cap4.md)

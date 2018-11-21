@@ -15,3 +15,6 @@ A empresa, por meio de seu núcleo de TI, não realiza o registro de uso dos sis
 
 ### ❌ Não Permitido
 A empresa, por meio de seu núcleo de TI, poderá registrar todo o uso dos sistemas e serviços, visando garantir a disponibilidade e a segurança das informações utilizadas.
+
+#### Próximo
+[III. Quanto ao Uso dos Sistemas](cap3.md)
