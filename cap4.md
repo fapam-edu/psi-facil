@@ -16,7 +16,5 @@ Que as senhas utilizadas para fins da instituição sejam armazenadas de forma f
 ### ❌ Não Permitido
 Que as senhas utilizadas para fins da instituição sejam armazenadas de forma física, sendo anotadas em diários, cadernos e etc. Deve-se utilizar softwares específicos, buscando manter a integridade dados.
 
-
-
-
-
+#### Próximo
+[V. Quanto à Transferência das Informações](cap5.md)
