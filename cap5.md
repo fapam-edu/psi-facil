@@ -28,3 +28,6 @@
 
 ### ❌ Não Permitido
 É vedado o transporte de dispositivos de armazenamento ou documentos que contenham dados da empresa por qualquer colaborador não autorizado.
+
+#### Próximo
+[VI. Quanto ao uso de Dispositivos móveis](cap6.md)
